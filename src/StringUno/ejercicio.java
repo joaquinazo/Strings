@@ -16,6 +16,7 @@ public class ejercicio {
         String str1 = "Hola que tal";
         String [] partes1 = str1.split(" ");
         System.out.println(partes1[1]);
+        args
 
 
     }
